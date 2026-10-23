@@ -1,4 +1,4 @@
-# chiron
+# Merlin
 
 An AI health coach that texts me on Telegram. It pulls my sleep, recovery, and workout data from Whoop and uses it to check in, answer questions, and keep me accountable.
 
